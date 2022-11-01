@@ -1,5 +1,5 @@
 package learngolang
 
-func LearnGolang() {
+func LearnGolang1() {
 
 }
