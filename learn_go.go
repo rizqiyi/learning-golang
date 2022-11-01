@@ -1,4 +1,4 @@
-package learngolang
+package learning_golang
 
 func LearnGolang1() {
 
