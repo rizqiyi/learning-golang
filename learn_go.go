@@ -1,0 +1,5 @@
+package learngolang
+
+func LearnGolang() {
+
+}
