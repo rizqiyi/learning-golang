@@ -1,3 +1,3 @@
-module github.com/rizqiyi/learning-golang
+module rizqiyi/learning-golang
 
 go 1.18
